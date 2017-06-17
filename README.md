@@ -1,4 +1,4 @@
-Program count fractal dimension of MRI image in DICOM format.
+Program count fractal dimension of MRI image in DICOM format.<\n>
 Opportunity:
 - count fractal dimension for one image;
 - count average value of fractal dimension for list of images, which you can load from folder;
